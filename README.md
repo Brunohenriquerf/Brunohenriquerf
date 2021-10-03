@@ -1,8 +1,8 @@
-- 👋 Olá, I’m @Brunohenriquerf
-- 👀 I’m interested in Artificial Intelligence and Data Science
-- 🌱 I’m currently learning Java and Data Science
-- 💞️ I’m looking to collaborate on Java projects
-- 📫 You can reach me at brunohenriquerf@hotmail.com
+- 👋 Olá, I’m @Brunohenriquerf;
+- 👀 I’m interested in Artificial Intelligence and Data Science;
+- 🌱 I’m currently learning Java, JavaScript and Data Science;
+- 💞️ I’m looking to collaborate on Java projects;
+- 📫 You can reach me at brunohenriquerf@hotmail.com;
 
 <div align="center">
   <a href="https://github.com/Brunohenriquerf">
