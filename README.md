@@ -1,6 +1,6 @@
 - 👋 cons name ("Bruno");
 - 🌱 var age (24);
-- 👀 var interest (Java : JS : DataScience);
+- 👀 str interest ("Java" , "JavaScript" , "DataScience");
 - 📫 cons contact (brunohenriquerf@hotmail.com);
 - 💞️ print.console ("thank you for visiting");
 
