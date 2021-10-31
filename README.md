@@ -1,6 +1,6 @@
 <img align="right" alt="PNG" src="https://cdn.discordapp.com/attachments/526845054699044866/901820939879198740/mandalorian-pop-vinyl-mandalorian-funko-pop-toy-helmet-clothing-apparel-transparent-png-1380162.png" width="280" height="445" />
 <div align="center">
- 👋 name = "Bruno Fernandes";</br>
+ 👋 firstName = "Bruno";</br>
  🌱 age = 25;</br>
  👀 interest ["Data Science" , "JavaScript"];</br>
  📫 contact = "brunohenriquerf@hotmail.com";</br>
