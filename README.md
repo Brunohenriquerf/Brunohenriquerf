@@ -2,9 +2,9 @@
 <div align="center">
  👋 firstName = "Bruno";</br>
  🌱 age = 25;</br>
- 👀 interest ["Data Science" , "JavaScript"];</br>
+ 👀 interest = ["Data Science" , "JavaScript"];</br>
  📫 contact = "brunohenriquerf@hotmail.com";</br>
- 💞️ console.log('Thank you for visiting');</br>
+ 💞️ console.log('Hey there!');</br>
 </div>
 </br>
 <div align="center">
