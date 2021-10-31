@@ -4,7 +4,7 @@
  🌱 age = 25;</br>
  👀 interest = ["Data Science" , "JavaScript"];</br>
  📫 contact = "brunohenriquerf@hotmail.com";</br>
- 💞️ console.log('Hey there!');</br>
+ 💞️ console.log('This is the way!');</br>
 </div>
 </br>
 <div align="center">
