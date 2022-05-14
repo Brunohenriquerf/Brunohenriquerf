@@ -1,4 +1,4 @@
-<img align="right" alt="PNG" src="https://cdn.discordapp.com/attachments/526845054699044866/901820939879198740/mandalorian-pop-vinyl-mandalorian-funko-pop-toy-helmet-clothing-apparel-transparent-png-1380162.png" width="280" height="445" />
+<img align="right" alt="PNG" src="https://cdn.discordapp.com/attachments/178849093026578432/975156035209822278/Screenshot_2.png" width="280" height="445" />
 <div align="center">
  👋 firstName = "Bruno";</br>
  🥳 age = 25;</br>
