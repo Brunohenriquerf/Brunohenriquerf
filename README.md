@@ -1,4 +1,4 @@
-<img align="right" alt="PNG" src="https://cdn.discordapp.com/attachments/178849093026578432/975156035209822278/Screenshot_2.png" width="310" height="280" />
+
 <div align="center">
  👋 firstName = "Bruno";</br>
  🥳 age = 25;</br>
@@ -6,6 +6,7 @@
  📫 contact = "brunohenriquerf@hotmail.com";</br>
  🚀 console.log('This is the way!');</br>
 </div>
+<img align="right" alt="PNG" src="https://cdn.discordapp.com/attachments/178849093026578432/975156035209822278/Screenshot_2.png" width="310" height="280" />
 </br>
 <div align="center">
   <a href="https://github.com/Brunohenriquerf">
